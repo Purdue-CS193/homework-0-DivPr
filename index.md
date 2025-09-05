@@ -1,4 +1,4 @@
-# Divyansh Pramanick's First CS193 HW
+# Divyansh Pramanick's 1st CS193 HW
 
 ## Welcome to GitHub Pages
 
